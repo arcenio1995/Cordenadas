@@ -15,12 +15,12 @@ public class Main {
         
         co2.ingresarDatos();
        
-        System.out.println("cordenadas del punto 1 : "+co1.Getx());
-        System.out.println("cordenada del punto 2 : "+co1.Gety());
-        System.out.println("cordenadas del punto 1 : "+co2.Getx());
-        System.out.println("cordenada del punto 2 : "+co2.Gety());
-        co2.Setx(20);
-        co2.Sety(14);
+        System.out.println("cordenadas del punto 1 : "+co1.getx());
+        System.out.println("cordenada del punto 2 : "+co1.gety());
+        System.out.println("cordenadas del punto 1 : "+co2.getx());
+        System.out.println("cordenada del punto 2 : "+co2.gety());
+        co2.setx(20);
+        co2.sety(14);
         
         co2.ingresarDatos();
        
