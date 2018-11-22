@@ -26,22 +26,22 @@ public class Cordenadas {
        
     }
     
-    public int Getx(){
+    public int getx(){
         
         return this.ejex;
     }
-    public int Gety(){
+    public int gety(){
         
         return this.ejey;
     }
     
-    public void Setx(int x){
+    public void setx(int x){
         
         this.ejex = x;
     
     }
     
-    public void Sety(int y){
+    public void sety(int y){
         
         this.ejey = y;
     
